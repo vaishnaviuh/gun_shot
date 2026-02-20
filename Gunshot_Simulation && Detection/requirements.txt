@@ -1,0 +1,5 @@
+soundfile
+matplotlib
+scipy
+numpy
+ipykernel
